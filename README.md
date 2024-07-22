@@ -82,7 +82,7 @@ You might need to wait for a couple of minutes for the MongoExpress to be availa
 
 ![image](https://github.com/user-attachments/assets/516b7c30-2aa5-49cb-a0a9-b25187e12e3f)
 
-Now as you can see the application is showing no value in the Data from MongoDB section to add data over that section you need to do the below steps.
+Now as you can see the application is showing vales in "Some static data" which is taken from the index.html file and you can also see that there is no value in the "Data from MongoDB" section to add data over that section you need to do the below steps.
 
 Create a new database named "new-db"
 ![image](https://github.com/user-attachments/assets/2e02e12c-362d-47c6-87c1-ed1d2aa92f2c)
