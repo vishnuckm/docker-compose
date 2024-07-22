@@ -18,9 +18,10 @@ Before you begin, ensure you have the following installed on your machine:
 git https://github.com/vishnuckm/docker-compose.git
 cd docker-compose
 ```
-The complete architecture of the repo will loock like this
+The complete architecture of the repo will loock like this.
 
-### image here>>>>>>>>>>>>>
+![image](https://github.com/user-attachments/assets/2717bfed-6ffd-4582-8063-d8a4237e4a80)
+
 
 Here you can see a bunch of application files, Dockerfile and Docker compose file that you can use for this project.
 
